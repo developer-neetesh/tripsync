@@ -125,7 +125,7 @@
 ```bash
 git clone https://github.com/developer-neetesh/tripsync.git
 cd tripsync
-```
+```dd
 
 #### 2. Server Setup
 
