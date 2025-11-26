@@ -123,8 +123,8 @@
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/TripSync.git
-cd TripSync
+git clone https://github.com/developer-neetesh/tripsync.git
+cd tripsync
 ```
 
 #### 2. Server Setup
@@ -339,7 +339,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-*Your Name* - [@yourusername](https://github.com/yourusername)
+**Neetesh** - [@developer-neetesh](https://github.com/developer-neetesh)
 
 ---
 
@@ -353,7 +353,13 @@ This project is licensed under the ISC License.
 
 ## 📞 Support
 
-For support, email support@tripsync.app or open an issue in the repository.
+For support, email support@tripsync.app or open an issue in the [repository](https://github.com/developer-neetesh/tripsync/issues).
+
+---
+
+## 🔗 Repository
+
+**GitHub**: [https://github.com/developer-neetesh/tripsync](https://github.com/developer-neetesh/tripsync)
 
 ---
 
@@ -361,7 +367,7 @@ For support, email support@tripsync.app or open an issue in the repository.
 
 **Made with ❤️ for travelers everywhere**
 
-[Report Bug](https://github.com/yourusername/TripSync/issues) · [Request Feature](https://github.com/yourusername/TripSync/issues) · [Documentation](https://github.com/yourusername/TripSync/wiki)
+[Report Bug](https://github.com/developer-neetesh/tripsync/issues) · [Request Feature](https://github.com/developer-neetesh/tripsync/issues) · [Documentation](https://github.com/developer-neetesh/tripsync/wiki)
 
 </div>
 
